@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>jryan32@protonmail.com</email>
+    <name>Joseph Ryan</name>
+  </maintainer>
+  <longdescription lang="en">
+    Collection of Microsoft Fonts extracted from Windows 11
+  </longdescription>
+  <upstream>
+    <remote-id type="github">VSCodium/VSCodium</remote-id>
+    <bugs-to>https://github.com/VSCodium/VSCodium/issues</bugs-to>
+  </upstream>
+</pkgmetadata>
