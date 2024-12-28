@@ -13,7 +13,7 @@ SRC_URI="https://invent.kde.org/olib/thermalmonitor/-/archive/v0.1.5/thermalmoni
 KEYWORDS="amd64 ~amd64"
 
 LICENSE="GPL-2+"
-SLOT="5"
+SLOT="1"
 
 # Set the source directory manually
 S="${WORKDIR}/thermalmonitor-v0.1.5"
