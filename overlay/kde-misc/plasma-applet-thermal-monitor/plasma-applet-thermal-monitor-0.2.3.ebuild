@@ -14,7 +14,7 @@ SRC_URI="https://invent.kde.org/olib/thermalmonitor/-/archive/v${VERSION}/therma
 KEYWORDS="amd64 ~amd64"
 
 LICENSE="MIT"
-SLOT="6"
+SLOT="1"
 
 # Set the source directory manually
 S="${WORKDIR}/thermalmonitor-v${VERSION}"
