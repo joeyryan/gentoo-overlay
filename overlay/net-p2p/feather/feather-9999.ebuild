@@ -1,6 +1,3 @@
-# Copyright 1999-2023 Gentoo Authors
-# Distributed under the terms of the GNU General Public License v2
-
 EAPI=8
 
 inherit cmake git-r3 desktop xdg
@@ -23,10 +20,10 @@ DEPEND="
 	~dev-libs/polyseed-1.0.0
 	dev-libs/libzip:=
 	dev-libs/boost:=[nls]
-	>=dev-qt/qtbase-6.5.2:6
-	>=dev-qt/qtsvg-6.5.2:6
-	>=dev-qt/qtmultimedia-6.5.2:6
-	>=dev-qt/qtwebsockets-6.5.2:6
+	>=dev-qt/qtbase-6.8.2:6
+	>=dev-qt/qtsvg-6.8.2:6
+	>=dev-qt/qtmultimedia-6.8.2:6
+	>=dev-qt/qtwebsockets-6.8.2:6
 	dev-libs/libgcrypt:=
 	sys-libs/zlib
 	dev-libs/openssl:=
