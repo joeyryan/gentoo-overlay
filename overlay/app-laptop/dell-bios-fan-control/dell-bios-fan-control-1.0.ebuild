@@ -1,6 +1,6 @@
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 DESCRIPTION="Utility to control BIOS fan control on some Dell laptops"
 HOMEPAGE="https://github.com/TomFreudenberg/dell-bios-fan-control"
@@ -18,6 +18,6 @@ RDEPEND=""
 DEPEND="${RDEPEND}"
 
 src_install() {
-	dobin dell-bios-fan-control
-	dodoc README.md
+  dobin dell-bios-fan-control
+  dodoc README.md
 }
